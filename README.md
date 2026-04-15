@@ -5,6 +5,7 @@ This project allows users to convert long URLs into short, shareable links and t
 
 ---
 
+![alt text](image.png)
 ## 🚀 Features
 
 * 🔗 Shorten long URLs instantly
